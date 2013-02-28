@@ -1,0 +1,2 @@
+# path shortener
+PS1='\u@\h:`pwd | sed "s:\([^/]\)[^/]*/:\1/:g"`\$ '
