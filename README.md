@@ -1,0 +1,4 @@
+myshellstuff
+============
+
+bashrc settings
